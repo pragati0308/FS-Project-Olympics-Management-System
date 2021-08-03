@@ -1,0 +1,23 @@
+Badminton@Individual
+Table Tennis@Doubles
+Wrestling@65kg
+Badminton@Single
+Boxing@55kg
+TableTennis@Individual
+Shooting@25mPistol
+Badminton@Doubles
+Boxing@60kg
+Table Tennis@Individual
+Wrestling@74 kg
+Boxing@65 kg
+Shooting@30 m Rifle
+Badminton@Individual
+Archery@10m 
+Table Tennis@Doubles
+Shooting@10m air pistol
+Wrestling@55 kg
+Table Tennis@Doubles
+Badminton@Single
+Badminton@Single
+Wrestling@56 kg
+Badminton@Single

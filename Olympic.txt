@@ -1,0 +1,20 @@
+$indhu|27|F|Badminton|Individual|India|Yes|2017
+Manika Batra|27|F|Table Tennis|Doubles|India|No|0
+BajrangPunia|35|M|Wrestling|65kg|India|No|0
+Phillip Chew|30|M|Badminton|Single|India|Yes|2016
+NaomiGraham|32|F|Boxing|55kg|USA|Yes|2017
+DianaGee|34|F|TableTennis|Individual|USA|No|0
+LindaThom|36|F|Shooting|25mPistol|Canada|Yes|2016
+MichelleLi|34|F|Badminton|Doubles|Canada|No|0
+Sabrina Aubin|30|F|Boxing|60kg|Canada|Yes|2017
+$ky Andrew|34|M|Table Tennis|Individual|Great Britain|No|0
+Nate Ackerman|37|M|Wrestling|74 kg|Great Britain|Yes|2017
+Nicola Adams|29|F|Boxing|65 kg|Great Britain|Yes|2016
+Dina A|36|F|Shooting|30 m Rifle|Australia|No|0
+David Bamford|34|M|Badminton|Individual|Australia|Yes|2016
+Ryan Tyack|34|M|Archery|10m |Australia|No|0
+Galia Dvorak|34|F|Table Tennis|Doubles|Spain|Yes|2016
+Pablo Carrera| 30|M|Shooting|10m air pistol|Spain|No|0
+Maria Teresa|32|F|Wrestling|55 kg|Spain|Yes|2016
+Mima Ito|36|F|Table Tennis|Doubles|Japan|No|0
+Pragati Agrawal|25|F|Badminton|Single|India|No|0
